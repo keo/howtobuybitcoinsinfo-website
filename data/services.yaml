@@ -25,6 +25,20 @@
 +  coins: [blk,bitusd,bts,btcd,clam,xcp,dash,dgb,doge,ftc,gemz,ltc,msc,mint,maid,xmr,nmc,nbt,nxt,nvc,pot,ppc,qrk,rdd,xrp,sdc,start,sjcx,swarm,usdt,uno,vrc,vtc,mona,ifc,str,flo,ioc,neos,ixc,opal,tron]
 
 
+MrCoin:
+  label: Mr.Coin
+  location: [uk, hu]
+  countries: [al, ad, at, az, bh, be, ba, br, bg, cr, hr, cy, cz, dk, do, tl, ee, fo, fi, fr, ge, de, gi, gr, gl, gt, hu, is, ie, il, it, jo, kz, xk, kw, lv, lb, li, lt, lu, mk, mt, mr, mu, mc, md, me, nl, 'no', pk, ps, pl, pt, qa, ro, sm, sa, rs, sk, si, es, se, ch, tn, tr, ae, uk, vg, dz, ao, bj, bf, bi, cm, cv, ir, ci, mg, ml, mz, sn, ua]
+  icon: https://www.mrcoin.eu/favicon.png
+  url: https://www.mrcoin.eu/
+  coins: [btc]
+  content: |
+    <p>The easiest and fastest way to buy Bitcoin. No sign-up required, no KYC under 1000 EUR. Order your coins under 2 minutes.</p>
+    <p>Accepting SEPA (EU) or SWIFT (worldwide) payments. Also running a Bitcoin ATM in Budapest city center.</p>
+    <p>Magyarország első Bitcoin váltója! A leggyorsabb és legkönnyebben használható váltó, forintban, magyar nyelven.</p>
+    <p>Regisztráció nincs, személyazonosítás 300 000 Ft alatt nincs. Munkaidőben 4 órán belül, forint utalással!</p>
+    <p>Magyarország első Bitcoin ATM-jének az üzemeltetőitől.</p>
+
 Coinfinity:
   label: Coinfinity
   location: [at]
